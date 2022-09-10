@@ -1,0 +1,3 @@
+# Omitir la carpeta y el archivo .env (vriables de entorno)
+venv
+.venv

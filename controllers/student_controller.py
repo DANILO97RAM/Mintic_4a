@@ -37,3 +37,4 @@ class StudentController():
         
     def delete(self,id):
         del self.students[id]
+        return id
